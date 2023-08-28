@@ -6,7 +6,6 @@
 -- Generation Time: Aug 19, 2021 at 03:26 PM
 -- Server version: 5.5.22
 -- PHP Version: 8.0.2
-
 create database quizapp;
 use quizapp;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
@@ -43,8 +42,8 @@ CREATE TABLE `proctoring_log` (
 -- --------------------------------------------------------
 --
 
--- select * from users;
--- update users set user_login = 0 where uid = 1 or uid =2;
+select * from users;
+update users set user_login = 0 where uid = 1 or uid =2;
 -- Table structure for table `questions`
 --
 -- questions_uid is set as auto_increament in seperate code below afterwards 

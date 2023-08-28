@@ -1,6 +1,7 @@
 fbconfig.json
 fbAdminConfig.json
 env/
+static/
 yolov3u.pt
 yolov8n.pt
 runs/

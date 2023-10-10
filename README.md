@@ -1,6 +1,7 @@
 # Exam-Proctoring
 ![index](https://github.com/manavjangid5/SmartProctoring/assets/74416396/c8e8bdf9-84fd-4bb1-b08c-a5654c0ee741)
 ![login](https://github.com/manavjangid5/SmartProctoring/assets/74416396/6d8072a9-5d7a-490f-877b-7d5b1acd68d8)
+
 ![login2](https://github.com/manavjangid5/SmartProctoring/assets/74416396/5c95e333-645e-4329-81b3-28f5b44512ed)
 ![prof_login](https://github.com/manavjangid5/SmartProctoring/assets/74416396/9ff9cb94-ef4a-4939-b827-e6283b42c875)
 ![student_login](https://github.com/manavjangid5/SmartProctoring/assets/74416396/4b90206c-0008-4bad-8ded-995c244cbb04)
@@ -11,6 +12,7 @@
 ![exam_history](https://github.com/manavjangid5/SmartProctoring/assets/74416396/14252e6d-89e0-4d72-8e81-8ceec24f3c49)
 ![exam_page](https://github.com/manavjangid5/SmartProctoring/assets/74416396/2f622253-8b45-4f34-bdb5-b5393018e935)
 ![exam_give_logs](https://github.com/manavjangid5/SmartProctoring/assets/74416396/833b1e3f-8571-4f0a-bbae-d5995a40f2c5)
+
 ![exam_page2](https://github.com/manavjangid5/SmartProctoring/assets/74416396/330984cb-3f70-4c30-8ae9-6e6e8c8e0559)
 ![window_log](https://github.com/manavjangid5/SmartProctoring/assets/74416396/048f4c9f-a736-4a6a-a9e7-116d914fa902)
 ![contact](https://github.com/manavjangid5/SmartProctoring/assets/74416396/fe43c83a-ce21-488d-b436-9fc4d222feb2)

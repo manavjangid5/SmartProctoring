@@ -12,8 +12,8 @@
 ![exam_history](https://github.com/manavjangid5/SmartProctoring/assets/74416396/14252e6d-89e0-4d72-8e81-8ceec24f3c49)
 ![exam_page](https://github.com/manavjangid5/SmartProctoring/assets/74416396/2f622253-8b45-4f34-bdb5-b5393018e935)
 ![exam_give_logs](https://github.com/manavjangid5/SmartProctoring/assets/74416396/833b1e3f-8571-4f0a-bbae-d5995a40f2c5)
-
 ![exam_page2](https://github.com/manavjangid5/SmartProctoring/assets/74416396/330984cb-3f70-4c30-8ae9-6e6e8c8e0559)
+![stu_result](https://github.com/manavjangid5/SmartProctoring/assets/74416396/ce13d7bd-9b9e-41bd-99cc-8b82fb330c52)
 
 ![window_log](https://github.com/manavjangid5/SmartProctoring/assets/74416396/048f4c9f-a736-4a6a-a9e7-116d914fa902)
 ![contact](https://github.com/manavjangid5/SmartProctoring/assets/74416396/fe43c83a-ce21-488d-b436-9fc4d222feb2)

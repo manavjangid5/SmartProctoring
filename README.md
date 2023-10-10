@@ -1,7 +1,7 @@
 # Exam-Proctoring
 ![index](https://github.com/manavjangid5/SmartProctoring/assets/74416396/c8e8bdf9-84fd-4bb1-b08c-a5654c0ee741)
 ![login](https://github.com/manavjangid5/SmartProctoring/assets/74416396/6d8072a9-5d7a-490f-877b-7d5b1acd68d8)
-![login2](https://github.com/manavjangid5/SmartProctoring/assets/74416396/570578d9-e990-4dc9-b708-8c0b0a7900b4)
+![login2](https://github.com/manavjangid5/SmartProctoring/assets/74416396/5c95e333-645e-4329-81b3-28f5b44512ed)
 ![prof_login](https://github.com/manavjangid5/SmartProctoring/assets/74416396/9ff9cb94-ef4a-4939-b827-e6283b42c875)
 ![student_login](https://github.com/manavjangid5/SmartProctoring/assets/74416396/4b90206c-0008-4bad-8ded-995c244cbb04)
 ![register](https://github.com/manavjangid5/SmartProctoring/assets/74416396/852899ff-3862-4c96-b7f1-b50b792bebbd)

@@ -266,7 +266,7 @@ def logout():
 @app.route('/contact', methods=['GET','POST'])
 def contact():
 	if request.method == 'POST':
-		careEmail = "narender.rk10@gmail.com"
+		careEmail = "manavjangid1410@gmail.com"
 		cname = request.form['cname']
 		cemail = request.form['cemail']
 		cquery = request.form['cquery']
